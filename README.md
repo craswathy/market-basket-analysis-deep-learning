@@ -344,7 +344,8 @@ pip install tensorflow keras pandas numpy scikit-learn matplotlib seaborn networ
 ## 📄 Project Report
 
 The full MSc project report is available in the `report/` folder:
-📄 `CR_ASWATH-PROJECT.pdf`
+📄 `Association Rule Mining and Neural Networks for Smart Retail Recommendations.pdf
+`
 
 ---
 
