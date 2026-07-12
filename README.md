@@ -377,6 +377,4 @@ Dua, D. and Graff, C. (2019). UCI Machine Learning Repository
 [Online Retail Dataset]. Irvine, CA: University of California, 
 School of Information and Computer Science.
 ```
-READMEEOF
-echo "README created successfully"
-wc -l /mnt/user-data/outputs/README_market_basket.md
+
